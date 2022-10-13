@@ -1,0 +1,206 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Fabian Ary",
+      "surnames": "Merino Livia",
+      "description": "Desde que tuve la posibilidad de conocer una computadora en un pequeño curso de informática, quedé tan entusiasmado, que decidí adentrarme a este mundo cibernético y efervescente que evoluciona cada día a pasos agigantados, primero con una carrera en informática y cada día, aprendiendo por mí mismo cada nueva cosa, de la infinidad que se puede aprender en esta especie de realidad alterna. \nTambién soy amante del ciclismo de montaña y algo de pesca deportiva. ",
+      "location": {
+        "country": "Perú",
+        "region": "Piura",
+        "municipality": "Piura"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/fabianmerino"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/fabian-merino/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TGI Ingeniería EIRL",
+          "URL": "https://www.tgiperu.com"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de proyectos de software",
+            "startDate": "2019-07-01",
+            "competences": [
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MQTT",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SCADA",
+                "type": "technology"
+              },
+              {
+                "name": "Socket.io",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Quasar",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MQTT",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/fabian-merino/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "ArcGIS",
+          "type": "technology"
+        },
+        {
+          "name": "Cassandra",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "IT Manager",
+        "Mobile Developer",
+        "Software Architect",
+        "Tech Lead",
+        "VP of Engineering"
+      ]
+    }
+  }
+}
